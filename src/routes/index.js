@@ -1,0 +1,21 @@
+export { default as Home } from "./Home";
+export { default as About } from "./About";
+export { default as Contact } from "./Contact";
+export { default as Galery } from "./Galery";
+export { default as Blog } from "./Blog";
+export { default as CancelationPolicy } from "./CancelationPolicy";
+export { default as Privacy } from "./Privacy";
+export { default as Tours } from "./Tours";
+export { default as NavbarSocial} from "../components/Socialbar";
+export { default as Footer } from "../components/Footer";
+export { default as BlogGuiaViajero } from "../blogPages/ViajeroGuia";
+export { default as BlogIsabelNevado } from "../blogPages/IsabelNevado";
+export { default as BlogMurillo } from "../blogPages/MurilloBlog";
+export { default as BlogParqueNacional } from "../blogPages/BlogParqueNacional";
+export { default as Tumbas } from "../tours/Tumbas";
+export { default as Nevado } from "../tours/Nevado";
+export { default as Oso } from "../tours/Oso";
+export { default as Campanita } from "../tours/Campanita";
+export { default as Mirador } from "../tours/Mirador";
+export { default as Canaan } from "../tours/Canaan";
+
