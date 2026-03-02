@@ -7,7 +7,6 @@ import Card2Home from "../assets/Backgrounds/Card2Home.jpg";
 import Card3Home from "../assets/Backgrounds/Card3Home.jpg";
 import CardHome from "../components/CardHome";
 import MobileSideBar from "../components/Mobilesidebar";
-import Value from "../components/Value";
 import ResponsiveCardContainer from "../components/responsiveComponents/CardsColumn"
 import useBreakpoint from "../hooks/useBreakpoint";
 import ToursSection from "../components/ToursSection";
@@ -118,10 +117,6 @@ const Home = () => {
                     ))}
                 </CardsContainer>
             )}
-
-            {/* <SubContainer>
-                <Value />
-            </SubContainer> */}
 
 {/* seccion para certificaciones */}
             <SubContainer>
