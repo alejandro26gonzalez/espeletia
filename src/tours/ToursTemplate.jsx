@@ -6,7 +6,7 @@ import { Container, Card} from "react-bootstrap";
 import { useState } from "react";
 import PricesComponent from "./PricesComp";
 import ItineraryComp from "./ItineraryComp";
-import BootIC from "../assets/Icons/BotaIC.svg";
+import BootIC from "../assets/icons/BotaIC.svg";
 import EscudoIC from "../assets/icons/securityIC.svg"
 import ListedContainer from "../blogPages/ListedContainer";
 import CtaFinalHome from "../components/CtaFinalHome";
