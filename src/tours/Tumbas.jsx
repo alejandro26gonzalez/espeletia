@@ -1,5 +1,5 @@
 import Tours1 from "../assets/Backgrounds/Tours1.png"
-import Extra2 from "../assets/Backgrounds/Home2.jpg"
+import Extra2 from "../assets/Backgrounds/Home2.JPG"
 import Extra3 from "../assets/Backgrounds/Home3.jpg"
 import Extra4 from "../assets/Backgrounds/Home4.jpg"
 import Extra5 from "../assets/Backgrounds/Home5.jpg"

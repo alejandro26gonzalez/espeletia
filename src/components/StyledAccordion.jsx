@@ -1,6 +1,5 @@
 import Accordion from 'react-bootstrap/Accordion';
 import styled from 'styled-components';
-import List from "../blogPages/List"
 
 const StyledAccordion = ({array = []}) => {
     return (
