@@ -11,6 +11,7 @@ import Extra3 from "../assets/Backgrounds/Home4.jpg"
 import Extra4 from "../assets/Backgrounds/Home5.jpg"
 import Extra5 from "../assets/Backgrounds/Home6.jpeg"
 
+
 const Campanita = () => {
 
     const imagesCarousel = Object.values(

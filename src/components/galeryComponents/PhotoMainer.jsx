@@ -5,13 +5,12 @@ import { forwardRef, useState } from "react";
 import SliderComp from "./SliderComp";
 
 
-
 const PhotoMainer = forwardRef(({selectedTour, setSelectedTour}, ref) => {
     
     const imageFolders = {
         campanita: import.meta.glob("../../assets/Fotos/CANON DEL RECIO TERMAL DE LA CAMPANITA/*.{jpeg,png,jpg}", {eager:true, import: "default"}),
         mirador: import.meta.glob("../../assets/Fotos/HIKING MIRADOR DE LOS NEVADOS/*.{jpeg,png,jpg}", {eager:true, import: "default"}),
-        nevado: import.meta.glob("../../assets/Fotos/NEVADO DE SANTA ISABEL/*.{jpeg,png,jpg}", {eager:true, import: "default"}),
+        nevado: import.meta.glob("../../assets/FoXtos/NEVADO DE SANTA ISABEL/*.{jpeg,png,jpg}", {eager:true, import: "default"}),
         valle: import.meta.glob("../../assets/Fotos/Nevado del Ruiz Valle de las Tumbas/*.{jpeg,png,jpg}", {eager:true, import: "default"}),
         canaan: import.meta.glob("../../assets/Fotos/TERMAL DE CANAAN/*.{jpeg,png,jpg}", {eager:true, import: "default"}),
         oso: import.meta.glob("../../assets/Fotos/TREKKING OSO MOSUL/*.{jpeg,png,jpg}", {eager:true, import: "default"}),
