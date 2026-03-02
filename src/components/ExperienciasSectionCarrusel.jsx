@@ -49,9 +49,9 @@ function ExperienciasSectionCarrusel() {
             src={data.background}
             alt="First slide"
             />
-          <Carousel.Caption className="d-flex flex-column justify-content-center align-items-center position-absolute top-50 start-50 translate-middle text-center w-75">
+          <Carousel.Caption className="d-flex flex-column justify-content-center align-items-center position-absolute top-50 start-50 translate-middle text-center w-75 p-2">
             <h3>{data.name}</h3>
-            <p>"{data.testimonial}"</p>  
+            <p>"{data.testimonial}"</p>
           </Carousel.Caption>
         </Carousel.Item> 
         ))}
