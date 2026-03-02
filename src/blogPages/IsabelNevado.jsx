@@ -1,7 +1,7 @@
 import styled from "styled-components"
 import Subtitle from "../components/Subtitle"
 import Pic1 from "../assets/Backgrounds/SI1.png"
-import Pic2 from "../assets/Backgrounds/SI2.JPG"
+import Pic2 from "../assets/Backgrounds/SI2.jpg"
 import Pic3 from "../assets/Backgrounds/SI3.png"
 import Container from "react-bootstrap/Container"
 import { useState } from "react";

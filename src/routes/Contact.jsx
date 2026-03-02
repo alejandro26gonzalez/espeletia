@@ -1,6 +1,6 @@
 import styled from "styled-components"
 import NavBar from "../components/NavbarComponent"
-import TitleBackground from "../assets/Backgrounds/Blog6.JPG"
+import TitleBackground from "../assets/Backgrounds/Blog6.jpg"
 import { Col } from "react-bootstrap"
 import emailIC from "../assets/icons/EmailICBlack.svg"
 import phoneIC from "../assets/icons/PhoneICBlack.svg"
